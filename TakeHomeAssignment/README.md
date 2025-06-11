@@ -10,8 +10,11 @@ security groups
 ![alt text](image-6.png)
 
 
+
 ping from Web-Server to the DB-Server
+
 ![alt text](image-10.png)
+
 
 
 Web_Server
